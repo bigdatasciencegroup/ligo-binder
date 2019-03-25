@@ -1,6 +1,6 @@
 # LIGO Binder
 
-[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/minrk/ligo-binder/master?filepath=index.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/fperez/ligo-binder/master?filepath=index.ipynb)
 
 A binder for doing a live demo of the [LIGO tutorial](https://losc.ligo.org/events/GW170104/). 
 
